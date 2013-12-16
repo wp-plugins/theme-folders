@@ -1,5 +1,5 @@
 === Theme Folders ===
-Contributors: theode, mg-lwin-kyaw-myat
+Contributors: theode
 Donate link: http://www.wp-plugin-dev.com/donate
 Tags: categories, category, development, themes label, themes folder labeling, 
 Requires at least: 3.0
