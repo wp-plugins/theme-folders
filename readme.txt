@@ -12,7 +12,7 @@ A plugin to sort themes. For an easy overview about your favorite Themes.
 
 == Description ==
 
-Did you ever struggle with to many themes in your WordPress installation?  I had enough of the messy plugin page on WordPress Backend. As developer I need sometimes a ranking for themes. So I decided,  there have to be a way to label themes or assign a category in this case a folder to them. 
+Did you ever struggle with to many themes in your WordPress installation?  I had enough of the messy theme page on WordPress Backend. As developer I need sometimes a ranking for themes. So I decided,  there have to be a way to label themes or assign a category in this case a folder to them. 
 
 That is why I was writing a code to folder WordPress themes. 
 Load different groups of themes into the wp-content. Go to the Admin Page under Appearance -> Theme Folders and give the names of the different folders. Now you have folder view of different theme groups.
