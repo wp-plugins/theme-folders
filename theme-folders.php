@@ -1,17 +1,16 @@
 <?php
 /*
 Plugin Name: Theme Folders
+Plugin URI: http://www.wp-plugin-dev.com
 Description: Add folders to themes
 Author: wp-plugin-dev.com
-Version: 0.1
+Version: 0.11
 Author URI: http://www.wp-plugin-dev.com
 */
 
 //apply_filters("theme_root","tr");
 global $wp_theme_directories;
 
-//register_theme_directory( "designs");
-//register_theme_directory( "Oldschool");
 
 $theme_folders=explode(", ", get_option('design_folders'));
 foreach ($theme_folders as $theme_register_dir){
