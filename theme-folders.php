@@ -77,7 +77,7 @@ Theme Folders <input type="text" value="<?php
             echo "<div id=\"theme_folder_item\">";
           
             $stylesheet = $themefolder2[7];
-            $themeN = wp_get_theme( $stylesheet, $theme_root );
+            $themeN = wp_get_theme( $stylesheet );
           
             echo "" . $themeN['Name'] . "";
             
